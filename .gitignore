@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.build/
+*.log
+*.env
+.env*
+!.env.example
+*.pem
+*.key
+auth.json
+*state.json
+.all-env
+*.sqlite*
+*.db
